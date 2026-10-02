@@ -1,0 +1,6 @@
+{
+  "name": "Nivalis Nights",
+  "author": "xlilcasper",
+  "version": "0.1.0",
+  "description": "Install Nivalis Nights mods from Nexus Mods with Vortex. Supports BepInEx IL2CPP plugins, patchers, config files, and the BepInEx pack."
+}
